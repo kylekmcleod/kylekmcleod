@@ -13,7 +13,7 @@ I'm a fourth-year computer science major at UBCO. I am currently spending my tim
 ###### Code
 ![](https://img.shields.io/badge/java-0366d6?style=for-the-badge&logo=Tutanota&logoColor=white)
 ![](https://img.shields.io/badge/python-0366d6?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/mysql-0366d6?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/sql-0366d6?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/javascript-0366d6?style=for-the-badge&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/html/css-0366d6?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/R-0366d6?style=for-the-badge&logo=R&logoColor=white)
