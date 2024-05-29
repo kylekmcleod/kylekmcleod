@@ -11,7 +11,7 @@ I'm a fourth-year computer science major at UBCO. I am currently spending my tim
 ###### Operating System
 ![](https://img.shields.io/badge/windows-0366d6?style=for-the-badge&logo=windows&logoColor=white)
 ###### Code
-![](https://img.shields.io/badge/java-0366d6?style=for-the-badge&logo=Tutanota&logoColor=white)
+![](https://img.shields.io/badge/Java-0366d6?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/python-0366d6?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/sql-0366d6?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/javascript-0366d6?style=for-the-badge&logo=javascript&logoColor=white)
