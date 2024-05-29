@@ -2,6 +2,11 @@
 
 I'm a fourth-year computer science major at UBCO. I am currently spending my time learning new technologies and languages. I'm excited about the journey ahead and the potential to contribute to the field in meaningful ways.
 
+## What am I working on?
+- 💻 Learning React & Python applications with [Song Seperator](https://github.com/kylekmcleod/SongSeperator)
+- 🧠 Doing LeetCode questions
+- 🌐 Exploring web development and expanding skills in HTML, CSS, and JavaScript
+
 ## My Skills & Tech Stack 
 ###### Operating System
 ![](https://img.shields.io/badge/windows-0366d6?style=for-the-badge&logo=windows&logoColor=white)
