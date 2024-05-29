@@ -1,6 +1,6 @@
 ## I'm Kyle McLeod
 
-I'm a fourth-year computer science major at UBCO. I am currently spending my time learning new technologies and languages. I'm excited about the journey ahead and the potential to contribute to the field in meaningful ways.
+I'm a fourth-year computer science major at UBCO. I am currently spending my time learning new technologies and languages. I'm excited about my computer science journeuy and the potential to contribute to the field in meaningful ways.
 
 ## What am I working on?
 - 💻 Learning React & Python applications with [Song Seperator](https://github.com/kylekmcleod/SongSeperator)
