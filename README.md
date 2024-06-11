@@ -31,3 +31,4 @@ I'm a fourth-year computer science major at UBCO. I am currently spending my tim
 ![](https://img.shields.io/badge/visual%20studio%20code-0366d6?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/eclipse-0366d6?style=for-the-badge&logo=eclipse&logoColor=white)
 ![](https://img.shields.io/badge/figma-0366d6?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/postman-0366d6?style=for-the-badge&logo=postman&logoColor=white)
