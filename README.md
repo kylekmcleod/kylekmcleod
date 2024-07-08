@@ -6,6 +6,7 @@ I'm a fourth-year computer science major at UBCO. I am currently spending my tim
 - 💻 Building [Song Seperator](https://github.com/kylekmcleod/SongSeperator), a web app for music producers
 - 🧠 Doing LeetCode questions
 - 🌐 Exploring web development and expanding skills in HTML, CSS, and JavaScript
+- 🧪 Experimenting with machine learning in Python
 
 ## My Skills & Tech Stack 
 ###### Operating System
