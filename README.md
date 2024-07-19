@@ -19,8 +19,9 @@ I'm a fourth-year computer science major at UBCO. I am currently spending my tim
 ![](https://img.shields.io/badge/html/css-0366d6?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/R-0366d6?style=for-the-badge&logo=R&logoColor=white)
 
-###### Frameworks
+###### Libraries & Frameworks
 ![](https://img.shields.io/badge/react-0366d6?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/next.js-0366d6?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/express.js-0366d6?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/bootstrap-0366d6?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/JUnit-0366d6?style=for-the-badge&logo=JUnit&logoColor=white)
