@@ -3,7 +3,7 @@
 I'm a fourth-year computer science major at UBCO. I am currently spending my time learning new technologies and languages. I'm excited about my computer science journey and the potential to contribute to the field in meaningful ways.
 
 ## What am I working on?
-- 💻 Building a paper trading app to practice investing.
+- 💻 Building a paper trading app so users can practice investing.
 - 🧠 Doing LeetCode questions
 - 🌐 Exploring web development and expanding skills in HTML, CSS, and JavaScript
 - 🧪 Experimenting with machine learning in Python
