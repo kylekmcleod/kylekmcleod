@@ -25,6 +25,7 @@ I'm a fourth-year computer science major at UBCO. I am currently spending my tim
 ![](https://img.shields.io/badge/express.js-0366d6?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/bootstrap-0366d6?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/JUnit-0366d6?style=for-the-badge&logo=JUnit&logoColor=white)
+![](https://img.shields.io/badge/tailwindcss-0366d6?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ###### Developer Tools
 ![](https://img.shields.io/badge/git-0366d6?style=for-the-badge&logo=git&logoColor=white)
