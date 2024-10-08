@@ -6,7 +6,7 @@ I'm a fourth-year computer science major at UBCO. I am currently spending my tim
 - 💻 Building a paper trading app so users can practice investing.
 - 🧠 Doing LeetCode questions
 - 🌐 Exploring web development and expanding skills in HTML, CSS, and JavaScript
-- 🧪 Experimenting with machine learning in Python
+- 🧪 Experimenting with machine learning in Python & R
 
 ## My Skills & Tech Stack 
 ###### Operating System
