@@ -1,6 +1,6 @@
 ## I'm Kyle McLeod
 
-I'm a fourth-year computer science major at UBCO. I am currently spending my time learning new technologies and languages. I'm excited about my computer science journey and the potential to contribute to the field in meaningful ways.
+I'm a fourth-year Computer Science student at the University of British Columbia, and I am expected to graduate in May 2026. My studies focus on software development, machine learning, and data science. I’m currently working on a few web applications that use Node.js, React, and Express.js/Next.js.
 
 ## My Skills & Tech Stack 
 ###### Operating System
