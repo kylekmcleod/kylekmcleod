@@ -1,4 +1,4 @@
-## I'm Kyle McLeod
+## Kyle McLeod
 
 I'm a fourth-year Computer Science student at the University of British Columbia, and I am expected to graduate in May 2026. My studies focus on software development, machine learning, and data science. I’m currently working on a few web applications that use Node.js, React, and Express.js/Next.js.
 
