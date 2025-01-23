@@ -2,9 +2,6 @@
 
 I'm a fourth-year Computer Science student at the University of British Columbia, and I am expected to graduate in May 2026. My studies focus on software development, machine learning, and data science. I’m currently working on a few web applications that use Node.js, React, and Express.js/Next.js.
 
-## My Skills & Tech Stack 
-###### Operating System
-![](https://img.shields.io/badge/windows-0366d6?style=for-the-badge&logo=windows&logoColor=white)
 ###### Code
 ![](https://img.shields.io/badge/Java-0366d6?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/python-0366d6?style=for-the-badge&logo=python&logoColor=white)
