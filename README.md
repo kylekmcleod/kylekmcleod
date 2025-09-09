@@ -1,5 +1,3 @@
-Building something cool.
-
 https://loopsauce.com
 
 ###### Code
